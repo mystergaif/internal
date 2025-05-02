@@ -1,6 +1,7 @@
 # Java
 *.class
 *.jar
+!releases/*.jar
 
 # IDE
 .vscode/
